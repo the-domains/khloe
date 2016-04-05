@@ -1,8 +1,7 @@
+name: khloe
+favicon: null
 layout_spectrum: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5489362
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: art sculpture landscaping and design
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1792571323458105
-  brandStrength: 0.2086277964990586
-  rhythmicContrast: 0.9029933277051896
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.2086277964990586
   lightness: 0.4206522535532713
-typography_spectrum: 0.5489362
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: khloe
+  saturation: 0.1792571323458105
+  rhythmicContrast: 0.9029933277051896
+purpose: []
